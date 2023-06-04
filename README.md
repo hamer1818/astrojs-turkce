@@ -1,5 +1,5 @@
 # astrojs-turkce
-türkiye de ilk defa astrojs in türkçe kaynağı yapıldı
+Türkiye de ilk defa astrojs in Türkçe kaynağını yaptım. 
 
 astrojs hızlı web siteleri geliştirmek için kullanılan bir frameworkdür. 
 
